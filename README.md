@@ -11,14 +11,12 @@
 
 ## 💫 About Me
 
-I’m a **BCA student** passionate about building **impactful digital experiences** by blending **design and development**. My journey started with HTML & CSS, and over time, I’ve dived deep into modern frontend tools and backend technologies to become a **full-stack developer in the making**.  
+I’m a BCA student passionate about creating functional & aesthetic digital experiences. I love coding, designing, and solving real-world problems while learning new technologies.
 
-I enjoy solving real-world problems, participating in hackathons, and constantly learning new technologies to stay ahead of the curve. My vision is to create products that are **functional**, **aesthetic**, and **user-centric**.
-
-🔭 Building frontend & full-stack projects
-🌱 Learning JS, React & MongoDB
-💬 Ask me about UI/UX & web dev
-⚡ I design first, code later
+-🔭 Building frontend & full-stack projects
+-🌱 Learning JS, React & MongoDB
+-💬 Ask me about UI/UX & web dev
+-⚡ I design first, code later
 
 ---
 

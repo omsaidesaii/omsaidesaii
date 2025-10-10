@@ -15,12 +15,10 @@ I’m a **BCA student** passionate about building **impactful digital experience
 
 I enjoy solving real-world problems, participating in hackathons, and constantly learning new technologies to stay ahead of the curve. My vision is to create products that are **functional**, **aesthetic**, and **user-centric**.
 
-- 🔭 I’m currently working on **multiple frontend & full-stack projects** to enhance my portfolio.  
-- 👯 I’m looking to collaborate on **Frontend/Full Stack projects, Hackathons**, and **Open Source** contributions.  
-- 🤝 I’m looking for help with **AI integration** in web development and advanced **backend optimizations**.  
-- 🌱 I’m currently learning **JavaScript (Advanced)**, **React**, **Next.js**, **MongoDB**, and **Full Stack Best Practices**.  
-- 💬 Ask me about **Frontend Development**, **Responsive UI Design**, **UI/UX Tools**, or **creative project ideas**.  
-- ⚡ Fun fact: I love designing in Figma & Photoshop first — then bringing my designs to life with code ✨
+🔭 Building frontend & full-stack projects
+🌱 Learning JS, React & MongoDB
+💬 Ask me about UI/UX & web dev
+⚡ I design first, code later
 
 ---
 
@@ -93,14 +91,6 @@ I enjoy solving real-world problems, participating in hackathons, and constantly
 
 ---
 
-## 🧭 Fun Section
-
-- 🧠 I love learning **new technologies** and experimenting with them on side projects.  
-- 🌍 I enjoy participating in **hackathons** and collaborating on **creative ideas**.  
-- 🎨 In my free time, I experiment with **UI/UX Design** on Figma & Photoshop.  
-- 📝 I'm currently preparing to build a strong **full-stack portfolio** and apply for internships.  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omsaidesaii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

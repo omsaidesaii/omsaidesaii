@@ -103,8 +103,8 @@ I enjoy solving real-world problems, participating in hackathons, and constantly
 ---
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=omsaidesaii&label=Profile%20views&color=0e75b6&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=omsaidesaii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -75,9 +75,7 @@ I’m a **BCA student** passionate about creating **functional and aesthetic dig
   <img src="https://nirzak-streak-stats.vercel.app/?user=omsaidesaii&theme=dark&hide_border=false" height="160px"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omsaidesaii/omsaidesaii/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsaidesaii&theme=dark&hide_border=false&layout=compact" height="150px"/>
